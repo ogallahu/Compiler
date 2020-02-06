@@ -1,0 +1,5 @@
+//Single semi colon is not a valid statment 
+//
+for(i=0;i<10;i++) { 
+    ;
+    }

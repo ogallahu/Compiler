@@ -1,0 +1,8 @@
+str:string = "Thank you";
+main:function integer () =
+{
+    // this is a comment
+    print str;
+    str2:string = " Tim\n";
+    print str2;
+}

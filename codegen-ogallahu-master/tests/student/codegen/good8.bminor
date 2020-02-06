@@ -1,0 +1,11 @@
+x:integer=5;
+fxnCall:function integer() =
+{
+    return x*4;
+}
+main:function integer () =
+{
+    y:integer = 2;
+    print (x + 10) * y - fxnCall();
+}
+

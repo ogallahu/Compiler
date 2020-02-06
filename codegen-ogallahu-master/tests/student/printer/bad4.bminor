@@ -1,0 +1,8 @@
+//invalid return statement
+main:function void() =
+{
+x:integer = 5;
+y:integer = 3;
+Z:integer = 6;
+return "HI", x || y + Z ^2, "\n";
+} 

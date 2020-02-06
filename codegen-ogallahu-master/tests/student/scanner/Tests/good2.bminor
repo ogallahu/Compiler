@@ -1,0 +1,13 @@
+// Testing Strings
+str: string;
+str = "Hello";
+str = "'hello'";
+str = "hello897";
+
+
+
+
+
+
+
+

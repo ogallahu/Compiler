@@ -1,0 +1,14 @@
+a: integer = 3;
+b: auto = 1;
+f: function integer (x: integer);
+c: integer = 4;
+g: function integer(x:integer);
+
+main: function integer () = {
+
+
+return f(a    +b *c   /d ^e %
+f,
+((f(g((1)-f((2))))%(3+4))/(((5^87))+((-1)*(0-(-1)))))^((10^(3)) + 2));
+
+}

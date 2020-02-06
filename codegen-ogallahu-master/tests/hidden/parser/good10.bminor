@@ -1,0 +1,5 @@
+main:function integer()={if(a)
+{x:char = '\n';{{{
+for(;;)print x;{x='y';} {{print a%b;}}} return 3;{}return 5;}
+
+}}else if (b) {} else return 1;q: auto={1,2,3};r: array[5] auto = 'k';}

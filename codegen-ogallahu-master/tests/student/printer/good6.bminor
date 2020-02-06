@@ -1,0 +1,25 @@
+// FIzz Buzz in Bminor
+main: function void() = {
+
+i:integer = 1; 
+for(i;i<100;i++) 
+{ 
+if (i%15 == 0) {   
+print ("FizzBuzz"); 
+}    
+if ((i%3) == 0) {
+print("Fizz");   
+}               
+
+if ((i%5) == 0){                        
+print("Buzz");   
+ }              
+
+else {             
+print(i);      
+   }            
+
+i++;
+} 
+
+} 

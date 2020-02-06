@@ -1,0 +1,9 @@
+f: function integer (x: integer);
+main: function integer () = {
+for(i=0;i<j+k*(l-m);) for (;/* empty**/;) {if (foo)
+print x; else for (;b;c) if ( bar ) for (d=5;;d++) return 11;
+
+else return 0;}
+}
+f: function integer (x: integer);
+g: function integer(x:integer);

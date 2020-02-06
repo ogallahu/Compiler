@@ -1,0 +1,14 @@
+// assign integer expression to local variable/ typechecking
+x:integer = 1;
+y:integer = 9;
+test:function integer();
+main:function void ()=
+{
+	x:integer = y * 2 + 1 - test();
+}
+test:function integer () =
+{
+	return 9;
+}
+	
+

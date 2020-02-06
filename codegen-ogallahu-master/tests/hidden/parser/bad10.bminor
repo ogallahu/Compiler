@@ -1,0 +1,4 @@
+/* Semicolon isn't a valid statement */
+main: function integer () = {
+    s: integer = 10;;
+}

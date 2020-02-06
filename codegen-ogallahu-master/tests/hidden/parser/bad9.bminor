@@ -1,0 +1,4 @@
+main: function integer () = {
+    // No commas outside array initializers.
+    A: array[2] integer = 1,2;
+}

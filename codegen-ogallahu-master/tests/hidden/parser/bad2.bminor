@@ -1,0 +1,4 @@
+// type in function call
+main:function void() = {
+    foo(bar:boolean);
+}

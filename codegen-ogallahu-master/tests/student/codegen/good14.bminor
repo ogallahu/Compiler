@@ -1,0 +1,16 @@
+x:integer = 1;
+main: function integer () =
+{
+    for(x = 0; x<10; x++)
+    {
+        print x;
+        print "\n";
+    }
+    y:integer = 0;
+    for(; y<10; y++)
+    {
+        print y;
+        print "\n";
+    }
+    x=0;
+}

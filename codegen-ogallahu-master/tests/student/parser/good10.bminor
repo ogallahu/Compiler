@@ -1,0 +1,30 @@
+// Simple function to see if year is a leap year 
+main: function void() = 
+{
+    year:integer = 1998;
+    if(year%4 == 0)
+    {
+        if( year%100 == 0)
+        {
+            // year is divisible by 400, hence the year is a leap year
+            if ( year%400 == 0){
+                print(year);
+                print("is a leap year.");
+                }
+            else{
+                print(year);
+                print("is not a leap year.");
+                }
+        }
+        else{
+            print(year);
+            print("leap year.");
+            }
+    }
+    else{
+        print(year);
+        print("not a leap year.");
+        }
+    
+    return 0;
+}

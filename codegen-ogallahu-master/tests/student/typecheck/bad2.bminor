@@ -1,0 +1,13 @@
+// use char fxn in integer expression
+x:integer = 7;
+y:integer = 1;
+main:function void ()=
+{
+	x:integer = y * 10 + 15 - test();
+}
+test:function char () =
+{
+	return '12';
+}
+	
+

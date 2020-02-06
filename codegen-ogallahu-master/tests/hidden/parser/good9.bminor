@@ -1,0 +1,21 @@
+x:integer = 5;
+f: function integer (x: integer);
+bar: function integer(n: integer);
+
+foo: function integer (x: array [] array
+[ 10 ] array[ 5 ] integer ) = {print "hi",
+
+    "\there";return 0;}
+
+y: char = 'x';
+
+abs: function integer(n: integer);
+
+bar: function integer(n: integer) = {
+return foo(2^n);
+}
+
+main: function integer() = {
+x:integer=10;
+return bar(x++);
+}

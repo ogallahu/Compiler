@@ -1,0 +1,9 @@
+// testing the char's
+
+
+ch:	char = 'c';
+ch: char = '\n';
+ch = '\6';
+ch = '\c'
+ch = '\t'
+

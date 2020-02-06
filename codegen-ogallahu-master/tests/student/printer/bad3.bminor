@@ -1,0 +1,10 @@
+// too many commas in parmeters
+// Should give parse error
+main:function void(int y, , ) =
+{
+x:integer = 5;
+y:integer = 3;
+arr[x - y] = 4;
+arr[y + x * 3] = arr[2+ x^2 - 1];
+} 
+

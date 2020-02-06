@@ -1,0 +1,11 @@
+/* tests Multipline comment 
+ * klsdflkfdshjf
+ * sdfdsffds
+ * sdf
+ * sd
+ * dsf
+ * fds
+ * fds
+ * and assignment after a comment on same line
+ */ OWEN: string= "JJJJJJJJ";
+

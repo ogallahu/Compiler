@@ -1,0 +1,7 @@
+// B-Minor doesn't have while loops
+main:function void()=
+{
+    while (i<10) {
+        print i;
+    }
+}

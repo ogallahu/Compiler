@@ -1,0 +1,20 @@
+
+main: function void () =
+{
+    xsize: integer = 20;
+    ysize: integer = 20;
+
+    i: integer;
+    j: integer;
+    
+    for(j=0;j<ysize;j++) {
+        for(i=0;i<xsize;i++) {
+                print '/';
+                if(i%2) {  print "\\"; }
+                    
+            }
+        
+        print "\n";
+    }
+}
+

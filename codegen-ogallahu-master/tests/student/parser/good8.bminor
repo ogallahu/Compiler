@@ -1,0 +1,5 @@
+// single statement (without braces) be used after a for-loop or an if-statement
+main:function void() = {
+    for(i=0;i<10;i++) print i;
+    if(a) x=y; else z=w;
+}

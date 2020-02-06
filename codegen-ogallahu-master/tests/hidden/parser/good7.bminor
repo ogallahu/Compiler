@@ -1,0 +1,4 @@
+main: function integer () = {
+if (!(a&&(b||!c)||!(!d&&(e&&f)))) {return 0;}
+}
+f: function integer (x: integer);

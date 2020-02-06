@@ -1,0 +1,15 @@
+// test using variable that doesn't exist/ enter leave scope properly
+y:integer = 10;
+main:function void ()=
+{
+	z:integer = 10;
+	{
+		{
+			x:integer = 5;
+			z:integer = 10;
+		}
+		z = x + z;
+	}
+}
+	
+

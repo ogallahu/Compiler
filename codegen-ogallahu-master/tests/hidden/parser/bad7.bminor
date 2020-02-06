@@ -1,0 +1,6 @@
+main: function integer () = {
+    x: integer = 10;
+    ++x;
+    // No prefix increment 
+    return x;
+}

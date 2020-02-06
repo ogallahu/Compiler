@@ -1,0 +1,4 @@
+/* Reserved words can't be identifiers */
+main: function integer () = {
+    string: integer = 10;
+}

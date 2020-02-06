@@ -1,0 +1,21 @@
+//Sample Fib generater in Bminor
+//Should Parse and Scan Fine
+main:function void() =
+{
+i:integer = 0;
+n:integer = 0;
+t1:integer = 0;
+t2:integer = 1;
+nextTerm:integer = 0;
+print("Enter the number of terms: ");
+print("Fibonacci Series: ");
+for (i = 1; i <= n; i ++)
+{
+print(t1);
+nextTerm = t1 + t2;
+t1 = t2;
+t2 = nextTerm;
+}
+return 0;
+}
+

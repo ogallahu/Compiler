@@ -1,0 +1,9 @@
+test1:function integer (a:integer, b:integer);
+main:function void ()=
+{
+	x:integer = test1(5, 6);
+}
+test1:function integer (a:integer, b:integer)=
+{
+	return a + b;
+}

@@ -1,0 +1,5 @@
+// missing function return type
+main:function ()=
+{
+    print i;
+}

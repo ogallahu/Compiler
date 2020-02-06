@@ -1,0 +1,8 @@
+// Testing while loops
+
+in: integer = 9;
+while(in> 1){
+    print("loop");
+    in--;
+}
+

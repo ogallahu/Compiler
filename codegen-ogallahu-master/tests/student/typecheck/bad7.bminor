@@ -1,0 +1,13 @@
+// test function calls
+
+test2:function boolean (a:integer, b:integer);
+main:function void ()=
+{
+	x:integer = test2(5, 6);
+	test2(5, 6);
+	print test2(11,12,12);
+}
+test2:function boolean (a:integer, b:integer)=
+{
+	return a>b;
+}

@@ -1,0 +1,22 @@
+// test character comparisions/headers
+gl:integer = 1;
+
+main:function void ()=
+{
+c:integer;
+	if(5 >= 5)
+	{
+		print "unreachable";
+	}
+	if(c > 5)
+	{
+		print "unreachable";
+	}
+	if(gl < 5)
+	{
+		print "reachable";
+	}
+	
+
+}
+

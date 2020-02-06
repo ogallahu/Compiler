@@ -1,0 +1,9 @@
+//testing if statments
+x: integer = 3;
+y: integer = 5;
+
+if (x > y){
+    print("X is larger");
+}else{
+    print("X si not larger");
+}

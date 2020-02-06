@@ -1,0 +1,9 @@
+//Testing all variabble assignment
+/* this si a good comment */
+
+int: integer = 0090;
+ch: char = '9';
+str: string = "Nine";
+bool : boolean = true;
+hi : auto = 90;
+

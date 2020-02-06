@@ -1,0 +1,6 @@
+main:function integer () =
+{
+    print "Thank you", " For a great year";
+    print "\n"; 
+}
+

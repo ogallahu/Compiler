@@ -1,0 +1,12 @@
+//test arrays
+
+
+f:array [5]integer = { 5,7,1,4,6};
+print(f[1]);
+f:array[5] boolean = {false, false, true, true, true};
+print(f[1]);
+f:array [] 	string = {"Red", "bLuE", "Green", "Yellow", "and finally", "brown"};
+print(f[1]);
+f:array[5]char = {'d', 'e', 'c', 'w', '2'};
+print(f[1]);
+

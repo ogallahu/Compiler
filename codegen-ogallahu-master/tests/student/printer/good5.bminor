@@ -1,0 +1,5 @@
+// Able to sting operations along 
+main: function void() = {
+x:integer = 0;
+if(!((4*x^5 + 4)-- - 4 >= 1)) {x = 6;}print(x);
+}

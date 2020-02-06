@@ -1,0 +1,4 @@
+//Commas can not be used in for loops
+for(i=0;i<10,j<10;i++) { 
+return;
+}

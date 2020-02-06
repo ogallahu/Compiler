@@ -1,0 +1,6 @@
+main:function integer () =
+{
+    print "thank", " you", " for ", 5, "months\n";
+
+
+}

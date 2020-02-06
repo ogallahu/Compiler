@@ -1,0 +1,12 @@
+// test 1d array assignments with function calls
+intFxn: function integer ();
+main:function integer () =
+{
+    print intFxn();
+    return 5;
+	
+}
+intFxn:function integer ()=
+{
+	return 3;
+}

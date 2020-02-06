@@ -1,0 +1,15 @@
+// wrong function prototype
+
+test1:function integer (a:integer);
+
+main:function void ()=
+{
+	str:string = "hi";
+	
+}
+//mismatched return type
+test1:function string (a:integer)=
+{
+	return "hello!";
+}
+

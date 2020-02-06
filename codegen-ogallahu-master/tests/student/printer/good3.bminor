@@ -1,0 +1,4 @@
+//Integer assignment
+main: function void () = {
+x:integer = 9; x = 5;
+}

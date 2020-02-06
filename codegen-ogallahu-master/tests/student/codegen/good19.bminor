@@ -1,0 +1,24 @@
+//Testing conditionsal with forloops
+main: function void () =
+{
+    xsize: integer = 10;
+    ysize: integer = 10;
+
+    i: integer;
+    j: integer;
+    
+    for(j=0;j<ysize;j++) {
+
+        if(j%2 || j%3){
+            for(i=0;i<xsize;i++) {
+                print " <";
+                if(j%2 == 1 && i%6 == 1) {print '/';}
+                print '3';
+                    
+            }
+        }
+        
+        print "\n";
+    }
+}
+

@@ -1,0 +1,5 @@
+// print isn't an expression
+main:function void()=
+{
+    return print i;
+}

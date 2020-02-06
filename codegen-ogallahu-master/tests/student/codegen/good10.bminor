@@ -1,0 +1,7 @@
+x:string = "Thank you for a great year!";
+main:function integer () =
+{
+    print x;    
+    print "\n";
+    
+}

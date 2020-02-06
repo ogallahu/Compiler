@@ -1,0 +1,4 @@
+// Empty print and return statments
+//
+main: function void() = { print; return;}
+

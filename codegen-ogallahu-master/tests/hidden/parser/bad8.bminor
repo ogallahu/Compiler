@@ -1,0 +1,4 @@
+main: function integer () = {
+    x= 5--5;
+}
+/* Should parse as INTEGER DECREMENT INTEGER */

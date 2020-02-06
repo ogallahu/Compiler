@@ -1,0 +1,6 @@
+//Different types of literals 
+str:string = "This is a string";
+intarr: array [7] integer = {1,2,3,4,3,2,5};
+charArr:array [4] char = {'a', 'b', 'c', 'd'};
+boolArr:array [4] boolean = {true, false, true, true};
+intarryArry: array [4] array [4] integer = {intarr, intarr, intarr, intarr};

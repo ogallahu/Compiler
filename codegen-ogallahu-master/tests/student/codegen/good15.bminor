@@ -1,0 +1,18 @@
+x:integer = 1;
+main: function integer () =
+{
+    for(;;)
+    {
+        if(x<100)
+        {
+            print "On number: ";
+            print x;
+            print "\n";
+            x++;
+        }
+        else
+        {
+            return  100;
+        }
+    }   
+}

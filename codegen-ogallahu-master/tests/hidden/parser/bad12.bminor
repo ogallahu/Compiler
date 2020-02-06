@@ -1,0 +1,4 @@
+// Trailing comma
+main:function void() = {
+    foo(bar,);
+}

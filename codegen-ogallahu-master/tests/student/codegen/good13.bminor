@@ -1,0 +1,22 @@
+main: function integer () =
+{
+    a:char = 'a';
+    cdup:char = "Santa";
+    
+    if("Santa" == cdup )
+    {
+        print "should be printed\n";
+    }
+    else
+        print "shouldn't be printed\n";
+    
+    if('x' != a )
+    {
+        print "should be printed\n";
+    }
+    else
+    {
+        print "shouldn't be printed\n";
+    }
+}
+

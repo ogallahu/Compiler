@@ -1,0 +1,6 @@
+x:integer=2;
+main:function integer ()=
+{
+y:integer = 9;
+    print x * y;
+}

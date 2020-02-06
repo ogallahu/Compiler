@@ -1,0 +1,5 @@
+// unclosed comment
+// should give Scan Error
+x= 7;
+/* thid is an unclosed comment
+ *

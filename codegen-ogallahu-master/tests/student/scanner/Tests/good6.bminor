@@ -1,0 +1,8 @@
+// Testing string backwacks
+
+str:string = "can escape a backwak like this \\";
+str = " \"this is a unique test case \" ";
+alsoAllowed: string = " \n \t \e \r \y \0"
+allowed:string = "single qoute ' or \' ";
+allowed:string = " double qoute \" ";
+

@@ -1,0 +1,16 @@
+// Testing booleans
+c: boolean = true;
+x: boolean = false;
+f: boolean = 5>6;
+if(x){
+    print("x is true");
+}
+else if(f){
+    print("f is true but x is fasle")
+}
+if(c || x){
+    print("c || x is true");
+}
+if(f && x){
+    print("f && x is true");
+}
